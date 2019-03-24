@@ -1,0 +1,11 @@
+#!/bin/sh
+
+for file in $@
+do
+    if [ ! -f "$file" ]; then
+	echo "No such file or directory: $file"
+	exit 1
+    fi
+done
+
+python `dirname $0`/rnn_plot_pca.py -d 2 $@

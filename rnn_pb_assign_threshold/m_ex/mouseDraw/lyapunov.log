@@ -1,0 +1,105 @@
+# LYAPUNOV FILE
+# seed = 3343339796
+# use_adaptive_lr
+# rho = 0.001000
+# momentum = 0.900000
+# delay_length = 1
+# lambda = 1.000000
+# alpha = 0.000000
+# truncate_length = 0
+# block_length = 5
+# divide_num = 2
+# lyapunov_spectrum_size = 1
+# threshold_period = 1e-06
+# in_state_size = 2
+# c_state_size = 20
+# out_state_size = 2
+# rep_init_size = 1
+# output_type = STANDARD_TYPE
+# target_num = 1
+# target 0	length = 97
+# prior_strength = 0.194000
+# rep_init_variance = 1.000000
+# const_init_c[0] = 0
+# const_init_c[1] = 0
+# const_init_c[2] = 0
+# const_init_c[3] = 0
+# const_init_c[4] = 0
+# const_init_c[5] = 0
+# const_init_c[6] = 0
+# const_init_c[7] = 0
+# const_init_c[8] = 0
+# const_init_c[9] = 0
+# const_init_c[10] = 0
+# const_init_c[11] = 0
+# const_init_c[12] = 0
+# const_init_c[13] = 0
+# const_init_c[14] = 0
+# const_init_c[15] = 0
+# const_init_c[16] = 0
+# const_init_c[17] = 0
+# const_init_c[18] = 0
+# const_init_c[19] = 0
+# connection_weight_ci[0] = (0,2)
+# connection_weight_ci[1] = (0,2)
+# connection_weight_ci[2] = (0,2)
+# connection_weight_ci[3] = (0,2)
+# connection_weight_ci[4] = (0,2)
+# connection_weight_ci[5] = (0,2)
+# connection_weight_ci[6] = (0,2)
+# connection_weight_ci[7] = (0,2)
+# connection_weight_ci[8] = (0,2)
+# connection_weight_ci[9] = (0,2)
+# connection_weight_ci[10] = (0,2)
+# connection_weight_ci[11] = (0,2)
+# connection_weight_ci[12] = (0,2)
+# connection_weight_ci[13] = (0,2)
+# connection_weight_ci[14] = (0,2)
+# connection_weight_ci[15] = (0,2)
+# connection_weight_ci[16] = (0,2)
+# connection_weight_ci[17] = (0,2)
+# connection_weight_ci[18] = (0,2)
+# connection_weight_ci[19] = (0,2)
+# connection_weight_cc[0] = (0,20)
+# connection_weight_cc[1] = (0,20)
+# connection_weight_cc[2] = (0,20)
+# connection_weight_cc[3] = (0,20)
+# connection_weight_cc[4] = (0,20)
+# connection_weight_cc[5] = (0,20)
+# connection_weight_cc[6] = (0,20)
+# connection_weight_cc[7] = (0,20)
+# connection_weight_cc[8] = (0,20)
+# connection_weight_cc[9] = (0,20)
+# connection_weight_cc[10] = (0,20)
+# connection_weight_cc[11] = (0,20)
+# connection_weight_cc[12] = (0,20)
+# connection_weight_cc[13] = (0,20)
+# connection_weight_cc[14] = (0,20)
+# connection_weight_cc[15] = (0,20)
+# connection_weight_cc[16] = (0,20)
+# connection_weight_cc[17] = (0,20)
+# connection_weight_cc[18] = (0,20)
+# connection_weight_cc[19] = (0,20)
+# connection_weight_oc[0] = (0,20)
+# connection_weight_oc[1] = (0,20)
+0	-0.207896
+100	-0.009779
+200	-0.009955
+300	-0.011432
+400	-0.011038
+500	-0.012309
+600	-0.013888
+700	-0.014012
+800	-0.015008
+900	-0.015105
+1000	-0.015106
+1100	-0.015251
+1200	-0.014395
+1300	-0.014402
+1400	-0.014661
+1500	-0.012652
+1600	-0.012153
+1700	-0.011901
+1800	-0.012763
+1900	-0.012458
+2000	-0.012953
